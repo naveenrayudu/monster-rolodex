@@ -51,4 +51,6 @@
 h1 {
   display: inline-block;
   margin: 30px 15px;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 75px;
 }
