@@ -1,0 +1,11 @@
+
+.search-input {
+    padding: 10px;
+    border: none;
+    line-height: 30px;
+    width: 250px;
+}
+  
+.search-input--container, .app-container {
+text-align: center;
+}
